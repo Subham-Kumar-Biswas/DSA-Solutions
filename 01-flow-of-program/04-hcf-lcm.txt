@@ -1,3 +1,5 @@
+4. Create flowchart and pseudocode for take 2 numbers as inputs and find their HCF and LCM.
+
 Start
 input a, b
 originalA = a

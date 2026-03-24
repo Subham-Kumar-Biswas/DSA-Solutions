@@ -1,3 +1,5 @@
+1. Create pseudocode for input a year and find whether it is a leap year or not.
+
 Start
 Input year
 If year % 100 == 0:
