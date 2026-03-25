@@ -4,7 +4,7 @@ Start
 Input n
 Input sum = 0
 While n != "x":
-    print "Enter your number: "
+    print "Enter your number: " 
     sum += n
 print sum
 End
