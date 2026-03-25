@@ -10,7 +10,7 @@ class OddEven {
         System.out.print("Enter any integer: ");
         int num = scanner.nextInt();
 
-        if (num % 2 == 0)
+        if (num % 2 == 0) 
             System.out.printf("%d is even number", num);
         else
             System.out.printf("%d is odd number", num);
