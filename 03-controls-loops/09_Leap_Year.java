@@ -16,7 +16,7 @@ class LeapYear {
         } else if (year % 4 == 0) {
             System.out.println("Leap Year");
         } else {
-            System.out.println("Not a Leap year");
+            System.out.println("Not a Leap year"); 
         }
 
         scanner.close();
