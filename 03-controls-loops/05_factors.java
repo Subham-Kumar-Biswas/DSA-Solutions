@@ -1,4 +1,4 @@
-/* 23. Input a number and print all the factors of that number. #Basics */
+/* 23. Input a number and print all the factors of that number. #Basic */
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-/* 11. Perimeter Of Rectangle #Basics */
+/* 11. Perimeter Of Rectangle #Basic */
 
 import java.util.Scanner;
 

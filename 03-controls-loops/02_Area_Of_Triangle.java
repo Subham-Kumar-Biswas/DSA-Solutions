@@ -1,4 +1,4 @@
-/* 2. Area Of Triangle #Baiscs */
+/* 2. Area Of Triangle #Baisc */
 
 import java.util.Scanner;
 

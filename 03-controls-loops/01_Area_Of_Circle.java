@@ -1,4 +1,4 @@
-/* 1. Area Of Circle Java Program #Basics */
+/* 1. Area Of Circle Java Program #Basic */
 
 import java.util.Scanner;
 

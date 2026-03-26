@@ -1,4 +1,4 @@
-/* 3. Area Of Rectangle Program #Basics */
+/* 3. Area Of Rectangle Program #Basic */
 
 import java.util.Scanner;
 
