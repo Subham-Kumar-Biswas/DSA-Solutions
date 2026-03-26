@@ -1,4 +1,4 @@
-/* 1. Factorial Program In Java */
+/* 1. Factorial Program In Java #intermediate */
 
 import java.util.Scanner;
 

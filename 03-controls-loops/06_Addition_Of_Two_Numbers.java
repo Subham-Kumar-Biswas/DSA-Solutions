@@ -1,4 +1,4 @@
-/* 26. Addition Of Two Numbers */
+/* 26. Addition Of Two Numbers #Basics */
 
 import java.util.Scanner;
 

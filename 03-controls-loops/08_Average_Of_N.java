@@ -1,4 +1,4 @@
-/* 3. Calculate Average Of N Numbers */
+/* 3. Calculate Average Of N Numbers #Intermediate */
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
- /* 23. Check Leap Year Or Not */
+ /* 23. Check Leap Year Or Not #Basic */
 
 import java.util.Scanner;
 
