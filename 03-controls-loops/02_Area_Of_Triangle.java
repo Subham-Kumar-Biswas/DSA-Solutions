@@ -1,4 +1,4 @@
-/* 2. Area Of Triangle #Baisc */
+/* 2. Area Of Triangle #Basic */
 
 import java.util.Scanner;
 
