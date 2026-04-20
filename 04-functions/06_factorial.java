@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-class factorial {
+class factorialRecursion {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
