@@ -4,7 +4,7 @@
 
 import java.util.Arrays;
 
-class Solution {
+class ArrayFromPermutaion {
     public static void main(String[] args) {
         int[] nums = { 0, 2, 1, 5, 3, 4 };
 

@@ -4,7 +4,7 @@
 // Input: accounts = [[1,5],[7,3],[3,5]]
 // Output: 10
 
-class Solution {
+class RichestCustomerWealth {
     public static void main(String[] args) {
         int[][] accounts = {{1,5},{7,3},{3,5}};
 

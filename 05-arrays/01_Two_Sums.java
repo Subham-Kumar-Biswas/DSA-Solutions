@@ -5,7 +5,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-class Solution {
+class TwoSums {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
