@@ -3,7 +3,7 @@ input from the user. */
 
 import java.util.Scanner;
 
-class OddEven {
+class oddEven {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
