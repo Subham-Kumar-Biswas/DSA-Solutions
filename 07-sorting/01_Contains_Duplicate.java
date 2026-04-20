@@ -2,7 +2,7 @@
 // Input: nums = [1,2,3,1]
 // Output: true
 
-class Solution {
+class ContainsDuplicate {
     public static void main(String[] args) {
         int[] nums = {1,2,3,1};
         System.out.println(containsDuplicate(nums));

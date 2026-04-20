@@ -2,7 +2,7 @@
 // Input: nums = [3,0,1]
 // Output: 2
 
-class Solution {
+class MissingNumber {
     public static void main(String[] args) {
         int[] nums = {3, 0, 1};
         System.out.println("Result (Cyclic): " + missingNumberCyclic(nums));        

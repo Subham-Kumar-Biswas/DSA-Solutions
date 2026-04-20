@@ -2,7 +2,7 @@
 // Input: nums = [1,3,4,2,2]
 // Output: 2
 
-class Solution {
+class FindDuplicateNumber {
     public static void main(String[] args) {
         int[] nums = {1,3,4,2,2};
         System.out.println(findDuplicate(nums));
