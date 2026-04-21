@@ -2,7 +2,7 @@
 // Input: sentence = "thequickbrownfoxjumpsoverthelazydog"
 // Output: true
 
-class Solution {
+class PangramSentence {
     public static void main(String[] args) {
         String sentence = "thequickbrownfoxjumpsoverthelazydog";
         System.out.println(checkIfPangram(sentence));

@@ -2,7 +2,7 @@
 // Input: s = "is2 sentence4 This1 a3"
 // Output: "This is a sentence"
 
-class Solution {
+class SortingTheSentence {
     public static void main(String[] args) {
         String s = "is2 sentence4 This1 a3";
         System.out.println(sortSentence(s));

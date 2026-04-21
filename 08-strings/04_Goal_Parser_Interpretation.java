@@ -2,7 +2,7 @@
 // Input: command = "G()(al)"
 // Output: "Goal"
 
-class Solution {
+class GoalParserInterpretation {
     public static void main(String[] args) {
         String command = "G()(al)";
         System.out.println(interpret(command));
