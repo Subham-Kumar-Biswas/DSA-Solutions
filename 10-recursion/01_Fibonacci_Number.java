@@ -2,7 +2,7 @@
 // Input: n = 2
 // Output: 1
 
-class Solution {
+class Fibonacci {
     public static void main(String[] args) {
         int n = 4;
         System.out.println(fib(n));
