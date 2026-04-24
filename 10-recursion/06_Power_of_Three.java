@@ -2,7 +2,7 @@
 // Input: n = 27
 // Output: true
 
-class Solution {
+class PowerOfThree {
     public static void main(String[] args) {
         int n = 27;
         System.out.println(isPowerOfThree(n));
