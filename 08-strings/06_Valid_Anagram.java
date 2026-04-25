@@ -1,0 +1,31 @@
+// 242. Valid Anagram
+// Input: s = "anagram", t = "nagaram"
+// Output: true
+
+class Anagram {
+    public static void main(String[] args) {
+        String s = "anagram";
+        String t = "nagaram";
+        System.out.println(isAnagram(s, t));
+    }
+
+    public static boolean isAnagram(String s, String t) {
+        if (s.length() != t.length()) {
+            return false;
+        }
+
+        int[] arr = new int[26];
+
+        for (int i = 0; i < s.length(); i++) {
+            arr[s.charAt(i) - 'a']++;
+            arr[t.charAt(i) - 'a']--;
+        }
+
+        for (int check = 0; check < arr.length; check++) {
+            if (arr[check] != 0) {
+                return false;
+            }
+        }
+        return true;
+    }
+}
