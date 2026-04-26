@@ -2,7 +2,7 @@
 // Input: s = "Hello"
 // Output: "hello"
 
-class Solution {
+class toLowerCase {
     public static void main(String[] args) {
         String s = "Hello";
         System.out.println(toLowerCase(s));
