@@ -2,7 +2,7 @@
 // Input: x = 1, y = 4
 // Output: 2
 
-class Solution {
+class HammingDistance {
     public static void main(String[] args) {
         int x = 1;
         int y = 4;

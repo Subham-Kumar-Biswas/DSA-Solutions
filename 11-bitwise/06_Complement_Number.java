@@ -2,7 +2,7 @@
 // Input: num = 5
 // Output: 2
 
-class Solution {
+class FindComplement {
     public static void main(String[] args) {
         int num = 5;
         System.out.println(findComplement(num));
