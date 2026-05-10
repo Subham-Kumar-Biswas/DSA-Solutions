@@ -30,6 +30,6 @@ class KidsWithCandies {
             KWGC.add(candies[j] + extraCandies >= max);
         }
 
-        return KWGC;
+        return KWGC; 
     }
 }
