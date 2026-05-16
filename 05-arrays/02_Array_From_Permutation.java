@@ -11,7 +11,7 @@ class ArrayFromPermutaion {
         int[] result = buildArray(nums);
 
         System.out.println(Arrays.toString(result));
-    }
+    } 
 
     public static int[] buildArray(int[] nums) {
         int[] ans = new int[nums.length];
