@@ -2,7 +2,7 @@
 // Input: s = "the sky is blue"
 // Output: "blue is sky the"
 
-class Solution {
+class ReverseWords {
     public static void main(String[] args) {
         String s = "the sky is blue";
         System.out.println(reverseWords(s));
