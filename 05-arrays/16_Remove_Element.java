@@ -5,7 +5,7 @@
 import java.util.Arrays;
 
 class Main {
-    static class Solution {
+    static class RemoveElement {
         public int removeElement(int[] nums, int val) {
             int index = 0;
 
@@ -20,7 +20,7 @@ class Main {
     }
 
     public static void main(String[] args) {
-        Solution solver = new Solution();
+        RemoveElement solver = new RemoveElement();
 
         int[] nums = {3, 2, 2, 3};
         int val = 3;
